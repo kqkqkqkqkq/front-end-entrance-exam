@@ -1,0 +1,16 @@
+.pdf .download-btn {
+  display: none;
+}
+
+.pdf .experience {
+  width: calc(var(--basic-size) * 2 + var(--basic-gap));
+}
+
+.pdf .tools {
+  width: calc(var(--basic-size) * 2 + var(--basic-gap));
+}
+
+.pdf .tools-list {
+  gap: 1rem;
+  flex-direction: row;
+}

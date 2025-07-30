@@ -1,0 +1,1 @@
+export const AVATAR_SRC = './assets/avatar/avatar.png'
