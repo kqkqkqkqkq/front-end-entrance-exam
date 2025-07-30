@@ -1,2 +1,7 @@
-```npm i```
-```npm run dev```
+```powershell
+npm i
+```
+
+```powershell
+npm run dev
+```
